@@ -1,7 +1,3 @@
-# Synthetic Mouse Obesity Dataset Analysis
-
-This project generates a synthetic mouse obesity dataset, fits Machine Learning (ML) models to it, and visualizes the performance of these models using ROC Curves. The project is implemented in both R and Python.
-
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
