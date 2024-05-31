@@ -72,7 +72,3 @@ The models are evaluated using ROC curves. The R script plots the ROC curves and
 1. **Weight vs Obese Classification Plot**: Interactive plot showing correct and incorrect predictions with logistic fit.
 2. **Confusion Matrix**: Interactive confusion matrix for logistic regression.
 3. **ROC Curves**: Interactive ROC curves comparing logistic regression and random forest models.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-```
