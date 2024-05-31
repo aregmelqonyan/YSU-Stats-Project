@@ -39,7 +39,7 @@ source('mouse_obesity_analysis.R')
 2. Run the script:
 
 ```bash
-python mouse_obesity_analysis.py
+python statistics_project.py
 ```
 
 ## Description
