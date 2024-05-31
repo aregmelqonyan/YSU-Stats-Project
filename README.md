@@ -11,7 +11,6 @@ This project generates a synthetic mouse obesity dataset, fits Machine Learning 
     - [Model Fitting](#model-fitting)
     - [Plotting and Evaluation](#plotting-and-evaluation)
 4. [Output](#output)
-5. [License](#license)
 
 ## Installation
 
