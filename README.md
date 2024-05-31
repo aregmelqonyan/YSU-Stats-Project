@@ -1,4 +1,3 @@
-```markdown
 # Synthetic Mouse Obesity Dataset Analysis
 
 This project generates a synthetic mouse obesity dataset, fits Machine Learning (ML) models to it, and visualizes the performance of these models using ROC Curves. The project is implemented in both R and Python.
@@ -32,7 +31,7 @@ pip install numpy pandas plotly scikit-learn
 ## Usage
 
 ### R Script
-1. Save the R script to a file, for example, `mouse_obesity_analysis.R`.
+1. Save the R script to a file, for example, `statistics_project.R`.
 2. Run the script in R or RStudio:
 
 ```R
@@ -40,7 +39,7 @@ source('mouse_obesity_analysis.R')
 ```
 
 ### Python Script
-1. Save the Python script to a file, for example, `mouse_obesity_analysis.py`.
+1. Save the Python script to a file, for example, `statistics_project.py`.
 2. Run the script:
 
 ```bash
