@@ -31,7 +31,7 @@ pip install numpy pandas plotly scikit-learn
 2. Run the script in R or RStudio:
 
 ```R
-source('mouse_obesity_analysis.R')
+source('statistics_project.R')
 ```
 
 ### Python Script
